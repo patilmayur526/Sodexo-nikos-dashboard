@@ -13,7 +13,7 @@ st.title("Sodexo Nikos — Daily Traffic Dashboard")
 # Paths
 # -----------------------------
 ROOT = Path(__file__).resolve().parent.parent
-INPUT_FILE = ROOT / "combined_output.xlsx"
+INPUT_FILE = Path("combined_output.xlsx")
 
 # -----------------------------
 # Sidebar controls
