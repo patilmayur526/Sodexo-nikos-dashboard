@@ -16,7 +16,7 @@ st.title("📊 Sales Dashboard — Daily & Weekly Analysis")
 # File path
 # -----------------------------
 ROOT = Path(__file__).resolve().parent
-DEFAULT_FILE = ROOT / "/Users/mayurpatil/Downloads/NIKOS_2026/Sales_data/Combined_reports/combined_sales_data.xlsx"
+DEFAULT_FILE = ROOT / "combined_sales_data.xlsx"
 
 st.sidebar.header("⚙️ Configuration")
 file_path_str = st.sidebar.text_input("Excel file path", str(DEFAULT_FILE))
