@@ -380,7 +380,7 @@ This is a private dashboard for Sodexo Nikos operations. For updates or issues:
 
 For questions, issues, or feature requests:
 - **Repository:** https://github.com/patilmayur526/Sodexo-nikos-dashboard
-- **Dashboard URL:** https://sodexo-nikos-dashboard-scsujncz7s524kxima4r9m.streamlit.app
+- **Dashboard URL:** https://sodexo-nikos-dashboard-irc6z7ufvpwflfueknify7.streamlit.app
 
 ---
 
